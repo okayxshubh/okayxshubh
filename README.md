@@ -1,11 +1,15 @@
 # ⚡ Shubham
+Heyaa.. My name is **Shubham**. I have a proven track record of building **simple yet reliable native android apps** for the HP Govt.    
+Focused on **reliable, user-friendly solutions**  
+> Learning & building, mostly off GitHub 🚀
+
 
 ## 🚀 About Me
 - 📱 Android Developer (Java)
 - 🌐 Working on **JavaScript Hybrid Apps**
 - ⚛️ Learning **React / React Native**
 - 💬 Ask me about **Android Development**
-- 😶 Antisocial, code-friendly
+- 😶 Antisocial :)
 
 ---
 
@@ -57,12 +61,12 @@
 
 ---
 
-> Focused on learning & building off-GitHub 🚀
-
-## 📊 GitHub Stats 
+## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=okayxshubh&show_icons=true&theme=dark&hide_border=true)
 
+## 🧠 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=okayxshubh&layout=compact&theme=dark&hide_border=true)
+
 
 
 ---
