@@ -13,7 +13,7 @@
 - Build clean Android apps  
 - Create scalable hybrid apps  
 - API integration & auth  
-- Simple UI, solid logic  
+- Simple but Noice UI 
 
 ---
 
@@ -25,11 +25,11 @@
 
 **Backend & DB**
 - Spring, Hibernate  
-- Firebase  
 - MySQL, SQLite, PostgreSQL  
 
 **Tools**
-- Git, GitHub, GitLab  
+- GitHub, GitLab
+- Insomnia, IntelliJ Idea, pgAdmin4
 - Vite, NPM, Expo  
 - Nginx, Tomcat, Maven  
 
@@ -51,9 +51,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-A08021?style=for-the-badge&logo=firebase&logoColor=FFCD34)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
