@@ -59,15 +59,6 @@ Focused on **reliable, user-friendly solutions**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=okayxshubh&show_icons=true&theme=dark&hide_border=true)
-
-## 🧠 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=okayxshubh&layout=compact&theme=dark&hide_border=true)
-
-
 
 ---
 
