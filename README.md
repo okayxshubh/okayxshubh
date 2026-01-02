@@ -57,12 +57,13 @@
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=okayxshubh&theme=dark&hide_border=false&count_private=true)
+> Focused on learning & building off-GitHub 🚀
 
-![](https://nirzak-streak-stats.vercel.app/?user=okayxshubh&theme=dark)
+## 📊 GitHub Stats 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=okayxshubh&show_icons=true&theme=dark&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=okayxshubh&theme=dark&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=okayxshubh&layout=compact&theme=dark&hide_border=true)
+
 
 ---
 
