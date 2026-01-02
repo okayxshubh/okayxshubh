@@ -1,4 +1,4 @@
-# ⚡ Shubham | Mobile & Hybrid Developer
+# ⚡ Shubham
 
 ## 🚀 About Me
 - 📱 Android Developer (Java)
