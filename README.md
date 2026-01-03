@@ -1,7 +1,6 @@
 # ⚡ Shubham
 Heyaa.. My name is **Shubham**. I have a proven track record of building **simple yet reliable native android apps** for the HP Govt.    
 Focused on **reliable, user-friendly solutions**  
-> Learning & building, mostly off GitHub 🚀
 
 
 ## 🚀 About Me
