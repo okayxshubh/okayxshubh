@@ -14,32 +14,32 @@ Focused on **reliable, user-friendly solutions**
 ---
 
 ## 🧠 What I Do
-- Build clean Android apps  
-- Create scalable hybrid apps  
-- API integration & auth  
-- Simple but Noice UI
+- 📱 Android apps that users actually open  
+- 🌐 Hybrid apps that run on phones I don’t own 
+- 🎨 Make UIs that look Noice
 
 ---
 
 ## 🛠️ Tech Stack
 **Languages & Frameworks**
-- Java, Android SDK  
-- JavaScript, TypeScript  
-- React, React Native  
+- Java — ancient but gold  
+- Android SDK — old faithful 
+- JS & TS — hybrid experiments
+- React / React Native — one hook at a time 
 
 **Backend & DB**
-- Spring, Hibernate  
-- MySQL, SQLite, PostgreSQL  
+- Spring, Hibernate — keeping servers sane 
+- MySQL, SQLite, PostgreSQL — databases that mostly obey  
 
 **Tools**
-- GitHub, GitLab
+- GitHub, GitLab — code diary
 - Insomnia, IntelliJ Idea, pgAdmin4
-- Vite, NPM, Expo  
-- Nginx, Tomcat, Maven  
+- Vite, NPM, Expo 
+- Nginx, Tomcat, Maven — deployment adventures 
 
 **Design**
-- Figma, Canva  
-- Photoshop, After Effects  
+- Figma, Canva — cus sometimes looks matter
+- Photoshop, After Effects — animations and stuff for fun
 
 ---
 
@@ -62,12 +62,14 @@ Focused on **reliable, user-friendly solutions**
 
 ---
 
-
 ## ✍️ Random Dev Quote
-Because sometimes motivation needs an API.
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+Because sometimes motivation needs an API.<br>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote"/>
+</p>
 
 ---
+
 
 ![](https://visitcount.itsvg.in/api?id=okayxshubh&icon=5&color=6)
 
