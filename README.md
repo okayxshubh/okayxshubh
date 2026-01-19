@@ -4,8 +4,6 @@
 Heyaa.. My name is **Shubham**. I have a proven track record of building **simple yet reliable native android apps** for the HP Govt.  
 Focused on **reliable, user-friendly solutions**
 
-<img src="assets/psyduck.gif" width="45"/>
-
 ## 🚀 About Me
 - 📱 Android Developer (Java — because stability ages well)
 - 🌐 Working on **JavaScript Hybrid Apps** (curiosity got the best of me)
@@ -20,10 +18,6 @@ Focused on **reliable, user-friendly solutions**
 - Create scalable hybrid apps  
 - API integration & auth  
 - Simple but Noice UI
-
-<p align="center">
-  <img src="assets/psyduck.gif" width="150" alt="psyduck GIF"/>
-</p>
 
 ---
 
