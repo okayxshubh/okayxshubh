@@ -1,14 +1,17 @@
-# ⚡ Shubham
-Heyaa.. My name is **Shubham**. I have a proven track record of building **simple yet reliable native android apps** for the HP Govt.    
-Focused on **reliable, user-friendly solutions**  
+<img src="assets/okayxshubh.png" width="120" align="right" alt="okayxshubh logo"/>
 
+# ⚡ Shubham
+Heyaa.. My name is **Shubham**. I have a proven track record of building **simple yet reliable native android apps** for the HP Govt.  
+Focused on **reliable, user-friendly solutions**
+
+<img src="assets/psyduck.gif" width="45"/>
 
 ## 🚀 About Me
-- 📱 Android Developer (Java)
-- 🌐 Working on **JavaScript Hybrid Apps**
-- ⚛️ Learning **React / React Native**
-- 💬 Ask me about **Android Development**
-- 😶 Antisocial :)
+- 📱 Android Developer (Java — because stability ages well)
+- 🌐 Working on **JavaScript Hybrid Apps** (curiosity got the best of me)
+- ⚛️ Learning **React / React Native** (one hook at a time)
+- 💬 Ask me about **Android Development** (whiteboard level, i prefer excalidraw)
+- 😶 Antisocial (feature, not a bug)
 
 ---
 
@@ -63,6 +66,7 @@ Focused on **reliable, user-friendly solutions**
 
 
 ## ✍️ Random Dev Quote
+Because sometimes motivation needs an API.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
