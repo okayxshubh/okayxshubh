@@ -1,7 +1,4 @@
-<div style="background-color:white; display:inline-block; padding:5px; border-radius:8px;">
-  <img src="assets/okayxshubh.png" width="120" alt="okayxshubh logo"/>
-</div>
-
+<img src="assets/okayxshubh.png" width="120" align="right" alt="okayxshubh logo"/>
 
 # ⚡ Shubham
 Heyaa.. My name is **Shubham**. I have a proven track record of building **simple yet reliable native android apps** for the HP Govt.  
