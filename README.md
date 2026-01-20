@@ -6,17 +6,18 @@ Focused on **reliable, user-friendly solutions**
 
 ## 🚀 About Me
 - 📱 Android Developer (Java — because stability ages well)
-- 🌐 Working on **JavaScript Hybrid Apps** (curiosity got the best of me)
+- 🌐 Working on **Hybrid Mobile Apps** (curiosity got the best of me)
 - ⚛️ Learning **React / React Native** (one hook at a time)
 - 💬 Ask me about **Android Development** (whiteboard level, i prefer excalidraw)
-- 😶 Antisocial (feature, not a bug)
+- 😶 Antisocial, but Helpful:) (feature, not a bug)
 
 ---
 
 ## 🧠 What I Do
 - 🌐 Design stuff cuz moving pixels around is oddly satisfying
 - 📱 Hybrid apps that run on phones I don’t own
-- ⚛️ Explore React, web stuff, and hybrid experiments 
+- ⚛️ Explore React, web stuff, and hybrid experiments
+- ✨ Graphics cuz fun, low-pressure, curiosity-driven energy.
 
 ---
 
@@ -72,7 +73,18 @@ Focused on **reliable, user-friendly solutions**
 
 ---
 
-
-![](https://visitcount.itsvg.in/api?id=okayxshubh&icon=5&color=6)
-
 > Code.. Break.. Fix.. Repeat..
+
+<details>
+  <summary>📜 notes.txt</summary>
+
+  - Simple code survives longer
+  - Most bugs are communication issues
+  - Deleting things is still a progress
+  - Logs are conversations with the past  
+  - if it’s hard to explain, it’s not done..
+  - Memory leaks never announce themselves
+  - Shipping > polishing forever
+</details>
+
+
