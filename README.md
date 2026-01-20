@@ -76,7 +76,7 @@ Focused on **reliable, user-friendly solutions**
 > Code.. Break.. Fix.. Repeat..
 
 <details>
-  <summary>📜 notes.txt</summary>
+  <summary>📜 note_for_self.txt</summary>
 
   - Simple code survives longer
   - Most bugs are communication issues
