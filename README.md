@@ -14,9 +14,9 @@ Focused on **reliable, user-friendly solutions**
 ---
 
 ## 🧠 What I Do
-- 📱 Android apps that users actually open  
-- 🌐 Hybrid apps that run on phones I don’t own 
-- 🎨 Make UIs that look Noice
+- 🌐 Design stuff cuz moving pixels around is oddly satisfying
+- 📱 Hybrid apps that run on phones I don’t own
+- ⚛️ Explore React, web stuff, and hybrid experiments 
 
 ---
 
@@ -64,7 +64,7 @@ Focused on **reliable, user-friendly solutions**
 
 ## ✍️ Random Dev Quote
 <p align="center">
-Because sometimes motivation needs an API.<br>
+Because sometimes motivation needs an API.<br><br>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote"/>
 </p>
 
