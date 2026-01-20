@@ -32,10 +32,10 @@ Focused on **reliable, user-friendly solutions**
 - MySQL, SQLite, PostgreSQL — databases that mostly obey  
 
 **Tools**
-- GitHub, GitLab — code diary
-- Insomnia, IntelliJ Idea, pgAdmin4
-- Vite, NPM, Expo 
-- Nginx, Tomcat, Maven — deployment adventures 
+- GitHub, GitLab — time travel for code 
+- Insomnia, IntelliJ Idea, pgAdmin4 — dev essentials 
+- Vite, NPM, Expo — fast builds & experiments 
+- Nginx, Tomcat, Maven — deployment thingy 
 
 **Design**
 - Figma, Canva — cus sometimes looks matter
@@ -63,10 +63,12 @@ Focused on **reliable, user-friendly solutions**
 ---
 
 ## ✍️ Random Dev Quote
+
 <p align="center">
-Because sometimes motivation needs an API.<br><br>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote"/>
+  <sub>Because sometimes motivation needs an API.</sub><br><br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
+>
 
 ---
 
