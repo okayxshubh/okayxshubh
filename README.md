@@ -14,11 +14,7 @@ Focused on **reliable, user-friendly solutions**
 ---
 
 ## 🧠 What I Do
-- 🌐 Design stuff cuz moving pixels around is oddly satisfying
-- 📱 Hybrid apps that run on phones I don’t own
-- ⚛️ Explore React, web stuff, and hybrid experiments
-- ✨ Graphics cuz fun, low-pressure, curiosity-driven energy.
-
+Design clean UI, build hybrid apps, explore React/React Native, and mess with graphics for fun.
 ---
 
 ## 🛠️ Tech Stack
