@@ -11,11 +11,11 @@ Focused on **reliable, user-friendly solutions**
 - 💬 Ask me about **Android Development** (whiteboard level, i prefer excalidraw)
 - 😶 Antisocial, but Helpful:) (feature, not a bug)
 
----
+
 
 ## 🧠 What I Do
 Design clean UI, build hybrid apps, explore React/React Native, and mess with graphics for fun.
----
+
 
 ## 🛠️ Tech Stack
 **Languages & Frameworks**
