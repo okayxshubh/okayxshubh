@@ -4,17 +4,25 @@
 Heyaa.. My name is **Shubham**. I have a proven track record of building **simple yet reliable native android apps** for the HP Govt.  
 Focused on **reliable, user-friendly solutions**
 
-## 🚀 About Me
-- 📱 Android Developer (Java — because stability ages well)
-- 🌐 Working on **Hybrid Mobile Apps** (curiosity got the best of me)
-- ⚛️ Learning **React / React Native** (one hook at a time)
-- 💬 Ask me about **Android Development** (whiteboard level, i prefer excalidraw)
-- 😶 Antisocial, but Helpful:) (feature, not a bug)
 
+## 🚀 About Me
+- 📱 Android Developer (Java — stability ages well)
+- 🌐 Exploring **Hybrid Mobile Applications** (curiosity got the best of me)
+- 💬 Discuss **Android Development** (whiteboard level, i prefer excalidraw)
+- 🐧 Using **Zorin OS** for 
+- 😶 Reserved, but dependable (feature, not a bug)
 
 
 ## 🧠 What I Do
 Design clean UI, build hybrid apps, explore React/React Native, and mess with graphics for fun.
+
+
+## 🐧 Linux Setup
+- Zorin OS (stable daily driver)
+- GNOME (clean, minimal workflow)
+- Flatpak / APT (package management)
+- Custom keybindings and system tweaks
+- Fix > reinstall
 
 
 ## 🛠️ Tech Stack
@@ -22,7 +30,7 @@ Design clean UI, build hybrid apps, explore React/React Native, and mess with gr
 - Java — ancient but gold  
 - Android SDK — old faithful 
 - JS & TS — hybrid experiments
-- React / React Native — one hook at a time 
+- React / React Native — one hook at a time
 
 **Backend & DB**
 - Spring, Hibernate — keeping servers sane 
@@ -30,7 +38,7 @@ Design clean UI, build hybrid apps, explore React/React Native, and mess with gr
 
 **Tools**
 - GitHub, GitLab — time travel for code 
-- Insomnia, IntelliJ Idea, pgAdmin4 — dev essentials 
+- Insomnia, IntelliJ Idea, VS, pgAdmin4 — dev essentials 
 - Vite, NPM, Expo — fast builds & experiments 
 - Nginx, Tomcat, Maven — deployment thingy 
 
@@ -55,6 +63,13 @@ Design clean UI, build hybrid apps, explore React/React Native, and mess with gr
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+
+## 🐧 Setup
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Zorin OS](https://img.shields.io/badge/Zorin_OS-15A6F0?style=for-the-badge&logo=zorin&logoColor=white)
+![GNOME](https://img.shields.io/badge/GNOME-4A86CF?style=for-the-badge&logo=gnome&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
 ---
