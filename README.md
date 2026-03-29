@@ -68,7 +68,6 @@ Design clean UI, build hybrid apps, explore React/React Native, and mess with gr
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Zorin OS](https://img.shields.io/badge/Zorin_OS-15A6F0?style=for-the-badge&logo=zorin&logoColor=white)
 ![GNOME](https://img.shields.io/badge/GNOME-4A86CF?style=for-the-badge&logo=gnome&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
@@ -90,10 +89,8 @@ Design clean UI, build hybrid apps, explore React/React Native, and mess with gr
   <summary>📜 note_for_self.txt</summary>
 
   - Simple code survives longer
-  - Most bugs are communication issues
-  - Deleting things is still a progress
-  - Logs are conversations with the past  
-  - if it’s hard to explain, it’s not done..
+  - Keep it simple, it stays fast 🐧 
+  - Logs are conversations with the past
   - Memory leaks never announce themselves
   - Shipping > polishing forever
 </details>
