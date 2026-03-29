@@ -9,7 +9,7 @@ Focused on **reliable, user-friendly solutions**
 - 📱 Android Developer (Java — stability ages well)
 - 🌐 Exploring **Hybrid Mobile Applications** (curiosity got the best of me)
 - 💬 Discuss **Android Development** (whiteboard level, i prefer excalidraw)
-- 🐧 Using **Zorin OS** for 
+- 🐧 **Zorin OS** for Development 
 - 😶 Reserved, but dependable (feature, not a bug)
 
 
