@@ -1,9 +1,27 @@
 <img src="assets/okayxshubh.png" width="110" align="right"/>
 
-# ⚡ Shubham
-
+# Heyaa, I'm Shubham  ⚡ 
 Developer | Enjoys Android, Linux, and making things work eventually.
+I have a proven track record of building simple yet reliable native android apps for the HP Govt.
 
+---
+
+## Currently
+Trying 10 different things and Studying Hehe.
+
+---
+
+## What I do
+
+- Android dev with Java
+- Hybrid apps (React Native / Expo)
+- Ocassional Next JS
+- Clean UI & basic backend
+
+## Core
+
+Zorin 18^ · GNOME · IntelliJ · VS Code
+Quiet, but dependable.
 
 ---
 
