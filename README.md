@@ -15,7 +15,8 @@ Trying 10 different things and Studying Hehe.
 
 - Android dev with Java
 - Hybrid apps (React Native / Expo)
-- Ocassional Next JS
+- Spring Framework
+- Next JS, Occasionally
 - Clean UI & basic backend
 
 ## Core
