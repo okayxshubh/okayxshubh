@@ -6,21 +6,17 @@ I have a proven track record of building simple yet reliable native android apps
 
 ---
 
-## Currently
-Trying 10 different things and Studying Hehe.
-
----
-
 ## What I do
-
 - Android dev with Java
 - Hybrid apps (React Native / Expo)
 - Spring Framework
 - Next JS, Occasionally
 - Clean UI & basic backend
 
-## Core
+## Currently
+Trying 10 different things and Studying Hehe.
 
+## Core
 Zorin 18^ · GNOME · IntelliJ · VS Code
 Quiet, but dependable.
 
