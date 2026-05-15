@@ -59,11 +59,10 @@ Quiet, but dependable.
 
 <details>
   <summary>📜 note_for_self.txt</summary>
-
+  
   - Keep it simple, it stays fast 🐧 
   - Being humble takes away nothing
   - Shipping > polishing forever
-
 </details>
 
 
