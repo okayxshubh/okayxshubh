@@ -1,7 +1,7 @@
 <img src="assets/okayxshubh.png" width="110" align="right"/>
 
 # Heyaa, I'm Shubham  ⚡ 
-Developer | Enjoys Android, Linux, and making things work eventually. \n
+Developer | Enjoys Android, Linux, and making things work eventually.
 I have a proven track record of building simple yet reliable native android apps for the HP Govt.
 
 ---
