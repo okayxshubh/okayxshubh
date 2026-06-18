@@ -4,7 +4,7 @@
 
 # Heyaa, I'm Shubham ⚡
 
-### Developer | Android • Linux • Backend • Systems
+### Android • Linux • Part-Time Developer
 
 > Enjoys Android, Linux, and making things work eventually.
 
